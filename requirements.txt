@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+gensim
+nltk
+Sastrawi
+emoji
+langdetect
+deep-translator
+matplotlib
+google-api-python-client
